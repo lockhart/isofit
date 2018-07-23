@@ -14,3 +14,12 @@ ISOFIT Documentation
    README_include
    isofit_formats
    multicomponent_surface
+
+.. only:: html
+
+   Indices and tables
+   ==================
+
+   * :ref:`genindex`
+   * :ref:`modindex`
+   * :ref:`search`
